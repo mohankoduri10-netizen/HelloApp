@@ -1,11 +1,11 @@
 /**
  * OOPS Banner App
- * Use Case 1: Print literal text "OOPS" to console.
+ * Use Case 1: Print literal text "OOPS" (Object-Oriented Programming System) to the console.
  * 
  * @author Mohan krishna Koduri
  * @version 1.0
  */
-public class OopsBannerApp {
+public class OOPSBannerApp {
 
     /**
      * Entry point of the application.
